@@ -1,0 +1,10 @@
+/home/ibra/projects/dotnet/firstApp/bin/Debug/netcoreapp2.0/firstApp.deps.json
+/home/ibra/projects/dotnet/firstApp/bin/Debug/netcoreapp2.0/firstApp.runtimeconfig.json
+/home/ibra/projects/dotnet/firstApp/bin/Debug/netcoreapp2.0/firstApp.runtimeconfig.dev.json
+/home/ibra/projects/dotnet/firstApp/bin/Debug/netcoreapp2.0/firstApp.dll
+/home/ibra/projects/dotnet/firstApp/bin/Debug/netcoreapp2.0/firstApp.pdb
+/home/ibra/projects/dotnet/firstApp/obj/Debug/netcoreapp2.0/firstApp.csproj.CoreCompileInputs.cache
+/home/ibra/projects/dotnet/firstApp/obj/Debug/netcoreapp2.0/firstApp.AssemblyInfoInputs.cache
+/home/ibra/projects/dotnet/firstApp/obj/Debug/netcoreapp2.0/firstApp.AssemblyInfo.cs
+/home/ibra/projects/dotnet/firstApp/obj/Debug/netcoreapp2.0/firstApp.dll
+/home/ibra/projects/dotnet/firstApp/obj/Debug/netcoreapp2.0/firstApp.pdb
